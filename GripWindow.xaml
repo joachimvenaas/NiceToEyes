@@ -1,0 +1,17 @@
+<Window x:Class="NiceToEyes.GripWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        Background="Transparent"
+        Topmost="True"
+        ShowInTaskbar="False"
+        ResizeMode="NoResize"
+        Width="30"
+        Height="30">
+    
+    <Grid x:Name="GripContainer" Background="#01000000">
+        <!-- Background is almost transparent but allows hit testing -->
+        <!-- Content will be set programmatically based on grip type -->
+    </Grid>
+</Window>

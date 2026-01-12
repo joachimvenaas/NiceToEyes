@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Packages
+*.nupkg
+
+# Debug files
+*.pdb
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
