@@ -7,6 +7,9 @@ A Windows application that creates an adjustable, movable, transparent, click-th
 
 ## Features
 
+<img width="1364" height="760" alt="{F83568E6-DFBA-4F9B-BAB3-C71F10FA839B}" src="https://github.com/user-attachments/assets/00592b38-9753-4dd5-9b02-0ed4c968f575" />
+
+
 - **Click-through overlay** - The overlay doesn't interfere with your work
 - **Adjustable darkness** - Control the opacity from 0-100%
 - **Color presets**:
